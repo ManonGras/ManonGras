@@ -3,7 +3,7 @@
 
 - I’m currently working on **[BigO.dev](https://github.com/ManonGras/BigO.dev)** - an interactive algorithm visualizer & learning center
 
-- You can check the **[worms-like game](https://github.com/ManonGras/Worms-likeGame)** I coded using Java 17, **javax.swing**, **java.awt** and **Google Gson** for JSON handling
+- You can check the **[worms-like game](https://github.com/ManonGras/Worms-likeGame)** I coded using **Java 17**, **javax.swing**, **java.awt** and **Google Gson** for JSON handling
 
 - I’m currently learning **TypeScript, React, Java, Python, C and R**
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/manon-gras-97334a304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manon-Gras" height="30" width="40" /></a>
 <a href="https://instagram.com/manon.grs05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manon.grs05" height="30" width="40" /></a>
 </p>
 
