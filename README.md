@@ -7,7 +7,7 @@
 
 - I’m currently learning **TypeScript, React, Java, Python, C and R**
 
-- How to reach me: **manon.gras@etu.u-paris.fr** or **manon.gras05@gmail.com
+- How to reach me: **manon.gras@etu.u-paris.fr** or **manon.gras05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
