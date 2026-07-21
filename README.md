@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Manon Gras</h1>
 <h3 align="center">A French Computer Science student</h3>
 
-- I’m currently working on **[BigO.dev](https://github.com/ManonGras/BigO.dev)** - an interactive algorithm visualizer & learning center
-
 - You can check the **[worms-like game](https://github.com/ManonGras/Worms-likeGame)** I coded using **Java 17**, **javax.swing**, **java.awt** and **Google Gson** for JSON handling
 
 - I’m currently learning **TypeScript, React, Java, Python, C and R**
